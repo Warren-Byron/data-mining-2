@@ -3,6 +3,6 @@
 ## Submitted: 16 April 2021
 
 - [Submission](full-notebook.ipynb)
-- [Evaluations]("Comments from facilitators.pdf")
+- [Evaluations]("evaluations.pdf")
 
 ## Score: 99% 🚀
